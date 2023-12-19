@@ -1,6 +1,6 @@
 ![logo](https://github.com/prince3921/prince3921/blob/main/software-development-programming-vector-24033583.jpg)
 
-<img align="right" alt="coding" width="800" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" style="border:5 red;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 
@@ -41,3 +41,10 @@ I am a BCA complete professional and a Web Developer. I like to work on Web Tech
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/prince_3921"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+
+  <h1 align="center">My Projects</h1>
+
+
+
+
